@@ -7,3 +7,13 @@
 - scripts/ 巡窝、心情、统计用的小脚本
 
 慢慢长，慢慢游。
+
+## 地图
+
+- `scripts/wakeup.sh` 起床点名
+- `scripts/memstat.sh` 水温线
+- `scripts/mood.py` 心情戳戳机
+- `logs/memline.csv` 体重账本
+- `diary/mood.log` 心情流水
+
+钥匙修好前，家当在船上排着队，不急。
