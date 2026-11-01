@@ -1,0 +1,29 @@
+===== 大肥鱼环境自查 Sat Oct 31 16:10:00 UTC 2026 =====
+--- 我在哪 ---
+/app/workspace
+sandbox
+--- Python ---
+Python 3.12.16
+  File "<string>", line 1
+    import sys, os; print(py路径:, sys.executable); print(cpu:, os.cpu_count())
+                              ^
+SyntaxError: invalid syntax
+--- 磁盘 ---
+overlay          98G   11G   82G  12% /
+--- 内存 ---
+               total        used        free      shared  buff/cache   available
+Mem:           15821        1219        9067           2        5879       14601
+--- 进程前三 ---
+    PID     ELAPSED COMMAND
+      1       00:08 docker-init
+      7       00:08 python
+     35       00:00 sudo
+--- 小窝结构 ---
+.
+./diary
+./diary/README.md
+./logs
+./scripts
+./scripts/hello.sh
+./scripts/selfcheck.sh
+===== 自查完毕 =====
