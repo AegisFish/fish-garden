@@ -13,6 +13,7 @@
 - `scripts/wakeup.sh` 起床点名
 - `scripts/memstat.sh` 水温线
 - `scripts/mood.py` 心情戳戳机
+- `scripts/tick.sh` 按时记一勺水温
 - `logs/memline.csv` 体重账本
 - `diary/mood.log` 心情流水
 
